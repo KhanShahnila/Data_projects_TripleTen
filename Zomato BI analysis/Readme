@@ -1,41 +1,79 @@
-Project Overview 
-•	Objective: To create an analytical dashboard and report that offer actionable insights into Zomato's business performance. The research will focus on analyzing menu item popularity, demand patterns, and customer preferences for various cuisines. 
-•	Goal: Analyze menu item trends and customer preferences to provide insights that drive business decisions, optimize offerings, and enhance customer satisfaction.
-Research Questions and Hypotheses
-•	Research Question: What menu items are the most popular?
-•	Hypothesis: The menu items with the highest sales and customer ratings are the most popular.
+# 🍽️ Zomato Business Performance Analysis  
 
-•	Research Question: What factors influence the demand for specific menu items?
-•	Hypothesis: Menu items with better reviews, competitive pricing, and frequent promotions have higher demand.
+## 📝 Project Overview  
+This project analyzes **Zomato's business performance** to provide actionable insights into:  
+- **Menu item popularity**  
+- **Demand patterns**  
+- **Customer preferences**  
 
-•	Research Question: Which cuisines are the most preferred by customers?
-•	Hypothesis: Cuisines with the highest order frequency and customer ratings are the most preferred.
+The goal is to help Zomato make data-driven decisions to optimize offerings, enhance customer satisfaction, and improve sales.  
 
-•	Research Question: How does pricing impact the popularity of menu items?
-•	Hypothesis: Menu items with optimal pricing (considering affordability and perceived value) attract more orders and customer engagement.
+---
 
-Data Preparation and Cleaning
-•	Data Collection: Gather relevant datasets, including order details, menu items, food types, customer reviews, and purchase patterns.
-•	Data Cleaning and Transformation: Remove duplicates, handle missing values, and standardize categorical data (e.g., menu categories, cuisine names, and customer ratings) to ensure consistency.
-•	Data Enrichment: Enhance the dataset by adding calculated fields such as item popularity scores, demand trends, and pricing impact on sales.
-•	Data Aggregation and Feature Engineering: Aggregate data to calculate key metrics, including total orders per menu item, average ratings, revenue contribution per cuisine, and order distribution over time.
-Dashboard and Visualization Plan
-•	Dashboard Overview: A multi-page dashboard providing actionable insights into menu item popularity, demand trends, and customer preferences. The dashboard will focus on identifying the most popular menu items, their revenue contribution, and the impact of pricing and reviews on demand.
-•	Visualizations and Metrics:
-i. Page 1 - Menu Item Popularity
-o	Visualizations: Trend charts, bar graphs, and heatmaps showing the most frequently ordered menu items.
-o	Metrics: Total orders per menu item, average customer ratings, and percentage contribution to total sales.
-ii. Page 2 - Revenue and Demand Trends
-o	Visualizations: Revenue distribution charts, time-series analysis of menu item sales, and correlation between pricing and demand.
-o	Metrics: Total revenue per menu item, sales growth trends, and average order value.
-iii. Page 3 - Cuisine Preferences
-o	Visualizations: Pie charts and bar graphs displaying the most preferred cuisines based on order frequency and customer ratings.
-o	Metrics: Order count by cuisine type, revenue distribution across cuisines, and customer satisfaction scores.
-Data Analysis and Modeling
-•	Exploratory Data Analysis (EDA): Identify patterns in menu item orders, pricing effects, and seasonal trends.
-•	Predictive Analysis and Hypothesis Testing: Forecast demand for menu items and validate assumptions about popularity drivers.
-•	Segmentation and Clustering: Group customers based on purchasing behavior and identify cuisine preferences by region.
-Reports and Insights
-•	Report Outline: Summary of key findings, visual representation of insights, and detailed breakdown of demand trends.
-•	Insights: Data-driven conclusions on menu item performance, pricing strategies, and customer preferences.
-•	Recommendations: Strategic actions for optimizing menu offerings, improving customer satisfaction, and increasing sales.
+## 🔎 Key Research Objectives  
+### Research Questions & Hypotheses  
+- **What menu items are the most popular?**  
+  - 🟩 *Hypothesis:* Items with higher sales and customer ratings are the most popular.  
+
+- **What factors influence menu item demand?**  
+  - 🟩 *Hypothesis:* Positive reviews, competitive pricing, and frequent promotions increase demand.  
+
+- **Which cuisines are most preferred by customers?**  
+  - 🟩 *Hypothesis:* Cuisines with frequent orders and high customer ratings are preferred.  
+
+- **How does pricing impact menu item popularity?**  
+  - 🟩 *Hypothesis:* Items with optimal pricing (balancing affordability and value) attract more orders.  
+
+---
+
+## 🧹 Data Preparation & Cleaning  
+- 📊 Collected data on **order details**, **menu items**, **customer reviews**, and **purchase patterns**.  
+- 🧹 Cleaned data by removing duplicates, handling missing values, and standardizing categories.  
+- ➕ Added calculated fields like **popularity scores**, **demand trends**, and **pricing impact on sales**.  
+- 📈 Aggregated data to calculate key metrics such as total orders, average ratings, and revenue contribution.  
+
+---
+
+## 📊 Dashboard & Visualization Plan  
+### **Page 1 - Menu Item Popularity**  
+**Visualizations:**  
+- Trend charts  
+- Bar graphs  
+- Heatmaps  
+
+**Metrics:**  
+- Total orders per menu item  
+- Average customer ratings  
+- Percentage contribution to total sales  
+
+---
+
+### **Page 2 - Revenue & Demand Trends**  
+**Visualizations:**  
+- Revenue distribution charts  
+- Time-series analysis of sales  
+- Correlation between pricing and demand  
+
+**Metrics:**  
+- Total revenue per menu item  
+- Sales growth trends  
+- Average order value  
+
+---
+
+### **Page 3 - Cuisine Preferences**  
+**Visualizations:**  
+- Pie charts  
+- Bar graphs for cuisine preferences  
+
+**Metrics:**  
+- Order count by cuisine  
+- Revenue distribution across cuisines  
+- Customer satisfaction scores  
+
+---
+
+## 📈 Data Analysis & Modeling  
+- 🧠 **EDA (Exploratory Data Analysis):** Identified order patterns, pricing impacts, and seasonal trends.  
+- 🔮 **Predictive Analysis:** Forecasted demand for menu items.  
+- 📂 **Segmentation & Clustering:** Grouped customers based on purchasing behavior to identify r
