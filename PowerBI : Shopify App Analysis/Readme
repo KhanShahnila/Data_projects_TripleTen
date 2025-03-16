@@ -1,19 +1,28 @@
-📊 Shopify App Analysis
-📝 Project Overview
-This project analyzes data from the Shopify App Store to identify key factors that contribute to app success. Using Power BI, the analysis explores app trends, reviews, and developer responsiveness to provide actionable insights.
+# 📊 Shopify App Analysis
 
-🔎 Key Analysis Sections
-1. App Landscape
-Created KPIs to highlight the total number of apps.
-Developed a line chart visualizing review trends over time.
-Built a scatterplot to analyze the relationship between review counts and average ratings.
-2. Reviews Analysis
-Added a calculated column for helpful reviews using DAX.
-Visualized the impact of developer responses on app ratings with a scatterplot.
-3. App Reviews Analysis
-Established a relationship between the Reviews and Apps tables.
-Visualized top developers based on total ratings and helpful review averages.
-Identified the most responsive developers using bar charts filtered by high review counts.
-📋 Tools Used
-Power BI for data visualization and analysis
-DAX (Data Analysis Expressions) for calculated columns and insights
+## 📝 Project Overview
+This project analyzes data from the Shopify App Store to identify key factors that contribute to app success. Using **Power BI**, the analysis explores app trends, reviews, and developer responsiveness to provide actionable insights.
+
+---
+
+## 🔎 Key Analysis Sections
+
+### 1. App Landscape
+- Created KPIs to highlight the total number of apps.
+- Developed a line chart visualizing review trends over time.
+- Built a scatterplot to analyze the relationship between review counts and average ratings.
+
+### 2. Reviews Analysis
+- Added a calculated column for helpful reviews using **DAX**.
+- Visualized the impact of developer responses on app ratings with a scatterplot.
+
+### 3. App Reviews Analysis
+- Established a relationship between the **Reviews** and **Apps** tables.
+- Visualized top developers based on total ratings and helpful review averages.
+- Identified the most responsive developers using bar charts filtered by high review counts.
+
+---
+
+## 📋 Tools Used
+- **Power BI** for data visualization and analysis
+- **DAX** (Data Analysis Expressions) for calculated columns and insights
