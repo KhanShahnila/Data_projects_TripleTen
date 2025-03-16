@@ -1,0 +1,15 @@
+🏙️ Manhattan Vacation Rental Analysis
+📝 Project Overview
+This project analyzes Airbnb data to provide insights for a client looking to invest in the Manhattan vacation rental market. The goal is to identify the most profitable property types and ideal locations for investment.
+
+🔎 Key Analysis Objectives
+Top Neighborhoods & Property Sizes: Identified which neighborhoods and property sizes (e.g., number of bedrooms) are most attractive for vacation rentals.
+Revenue Analysis: Analyzed how much revenue these listings generated to identify high-performing properties.
+📊 Tools & Techniques
+Microsoft Excel for data cleaning, organization, and analysis.
+Pivot Tables to summarize data and uncover key trends.
+Data Visualization to present insights clearly and effectively.
+📈 Key Insights
+Identified high-demand neighborhoods ideal for vacation rental investments.
+Highlighted the most profitable property sizes based on revenue data.
+Provided data-driven recommendations to help the client make informed investment decisions.
