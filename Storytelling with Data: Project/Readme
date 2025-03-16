@@ -1,0 +1,29 @@
+📊 Superstore Return Analysis Project
+📝 Project Overview
+This project aims to analyze the factors contributing to the high number of returned orders at the Superstore. The goal is to provide the CEO with actionable insights to reduce return rates and improve overall business performance.
+
+🔎 Key Analysis Steps
+1. Identifying Return Causes
+Data Preparation:
+
+Merged the Returns table with the Orders table using a LEFT JOIN to ensure all records are captured (both "Yes" and "null" values in the Returned column).
+Created a calculated field to classify returns as "0" (not returned) and "1" (returned).
+Visualizations:
+
+Scatterplot: Correlated total sales with total returns by product subcategory.
+Bar Chart: Showed return rates by product category to identify high-return areas.
+Customer Analysis: Filtered for customers with multiple orders to identify those prone to returns.
+Geographic Analysis: Mapped return rates by state or city to highlight regional trends.
+Seasonal Analysis: Explored return rates by month/week to detect seasonal patterns.
+Composite Charts: Combined various dimensions like date, geography, and product category to identify complex return patterns.
+2. Building a Dashboard for Monitoring Returns
+Created three low-fidelity sketches to outline potential dashboard designs.
+Developed a dashboard template in Tableau using empty containers based on the chosen mock-up.
+Added visualizations, relevant markers, and clear titles to highlight key insights.
+3. Presenting Analysis & Findings
+Created a structured Story Arc to guide the presentation, including:
+A summary of key findings.
+Recommended metrics to measure returns (e.g., return rate, total cost of returns, or total return count).
+Visual explanations of each chart and its interpretation.
+Demonstrations on how to use dashboard filters to identify return patterns.
+Suggested actionable steps to reduce return rates based on the insights.
