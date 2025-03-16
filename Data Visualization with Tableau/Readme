@@ -1,0 +1,23 @@
+
+📊 Superstore Profit, Advertising, and Return Analysis
+📝 Project Overview
+This project analyzes Superstore sales data to identify key insights that improve profitability, guide advertising strategies, and manage product returns. The analysis was conducted using Tableau and is divided into three parts:
+
+Part 1: Profits & Losses
+🔍 Key Insights
+Identified the two biggest profit centers and two biggest loss-makers using visualizations.
+Recommended products the store should consider discontinuing based on performance data.
+Highlighted three profitable product subcategories to focus on and three underperforming subcategories to reconsider.
+Part 2: Advertising Strategy
+📈 Key Insights
+Identified the top 3 state and month combinations ideal for advertising campaigns.
+Created a visualization showcasing average monthly profit trends to support strategic ad spending decisions.
+Suggested an appropriate ad spend budget using the 1/5 profit rule to maximize return on investment.
+Part 3: Returned Items Analysis
+🔄 Key Insights
+Merged the Returns table with the Orders table to analyze return patterns.
+Developed a calculated field to classify returns as "0" (not returned) and "1" (returned).
+Visualized data to identify:
+Products with the highest return rates.
+Customers with the highest return rates.
+The relationship between average profit and return rates across dimensions like state, shipping mode, and product type.
